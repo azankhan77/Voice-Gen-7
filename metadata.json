@@ -1,0 +1,7 @@
+{
+  "name": "Voice Gen 7",
+  "description": "An advanced Text-to-Speech (TTS) generator with a dark, futuristic theme, extensive language support, and voice customization powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
